@@ -1,0 +1,3 @@
+# CDCProject
+Project for the Controls Supplementary Exam
+The purpose of this paper is to describe the process of designing and simulating various linear control algorithms covered in the Controls Supplementary Course. In particular, we will start with the optimal LQ state feedback control, which will be thoroughly analyzed and then compared with H∞ control. Additionally, we will demonstrate the differences that arise with output feedback, focusing on the advantages gained by using the Kalman filter instead of a standard observer, especially in the presence of disturbance and process and measurement noise.
